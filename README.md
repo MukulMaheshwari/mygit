@@ -1,0 +1,3 @@
+# mygit
+My first git
+
